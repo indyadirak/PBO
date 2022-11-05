@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82f94f06-5f79-4d7b-a326-dc6dc65db5a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../soal 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 2/out/production/soal 2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 2/out/production/soal 2/nama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 2/soal 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 2/src/nama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 3/out/production/soal 3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 3/out/production/soal 3/Umur.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 3/soal 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 3/src/AdaYangSalah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soal 3/src/Umur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/out/production/aggregator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/out/production/aggregator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/out/production/aggregator/Volume_Bangunan_balok.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/out/production/aggregator/Volume_Bangunan_balok.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/out/production/aggregator/Volume_bangunan_tabung.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/out/production/aggregator/Volume_bangunan_tabung.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/out/production/aggregator/volume_bangunan_kubus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/out/production/aggregator/volume_bangunan_kubus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/src/Class3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/src/Class3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/non-responsi/aggregator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/responsi/responsi/src/Class3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pelajaran/minggu ke-4/responsi/responsi/src/Class3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tugas assistensi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tugas assistensi/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tugas assistensi/hotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tugas assistensi/hotel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../praktikum/praktikum/modul3/laporan/9 - Format Laporan Praktikum.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../praktikum/praktikum/modul3/laporan/9 - Format Laporan Praktikum.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GLAZs844A2wRvoffT5AVXt5NdV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/kuliah/semester 3/PBO"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82f94f06-5f79-4d7b-a326-dc6dc65db5a5" name="Changes" comment="" />
+      <created>1666157553334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666157553334</updated>
+      <workItem from="1666157555435" duration="1156000" />
+      <workItem from="1666239279328" duration="556000" />
+      <workItem from="1666239917300" duration="611000" />
+      <workItem from="1666252850626" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

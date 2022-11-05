@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4f61f34-5576-46bc-8d68-0269bfcf839b" name="Changes" comment="31 - 10 - 2022 || 15:30">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GXLxJ75pz0zckyqt6X4D0LJFLe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/media/lvr_viole/Data/kuliah/semester 3/PBO/praktikum/praktikum/[6] Modul 5/praktikum/hari-h/nomor 4"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4f61f34-5576-46bc-8d68-0269bfcf839b" name="Changes" comment="" />
+      <created>1666530229286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666530229286</updated>
+      <workItem from="1666530230554" duration="12201000" />
+      <workItem from="1666685616538" duration="1281000" />
+      <workItem from="1666712921309" duration="322000" />
+      <workItem from="1666925032389" duration="39000" />
+      <workItem from="1666931548360" duration="5129000" />
+      <workItem from="1666972198767" duration="3154000" />
+      <workItem from="1666946665349" duration="5263000" />
+      <workItem from="1667177114943" duration="136000" />
+      <workItem from="1667200510554" duration="1304000" />
+      <workItem from="1667204090307" duration="679000" />
+      <workItem from="1667213398067" duration="254000" />
+      <workItem from="1667401649934" duration="278000" />
+      <workItem from="1667437288200" duration="264000" />
+    </task>
+    <task id="LOCAL-00001" summary="31 - 10 - 2022 || 14:15">
+      <created>1667200544821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667200544821</updated>
+    </task>
+    <task id="LOCAL-00002" summary="31 - 10 - 2022 || 14:15">
+      <created>1667200566600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667200566600</updated>
+    </task>
+    <task id="LOCAL-00003" summary="31 - 10 - 2022 || 14:15">
+      <created>1667200833771</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667200833771</updated>
+    </task>
+    <task id="LOCAL-00004" summary="31 - 10 - 2022 || 14:15">
+      <created>1667200845701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667200845702</updated>
+    </task>
+    <task id="LOCAL-00005" summary="31 - 10 - 2022 || 14:15">
+      <created>1667200851402</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667200851402</updated>
+    </task>
+    <task id="LOCAL-00006" summary="31 - 10 - 2022 || 15:30">
+      <created>1667205014537</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667205014537</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="28 - 10 - 2022 || 15:51" />
+    <MESSAGE value="31 - 10 - 2022 || 14:15" />
+    <MESSAGE value="31 - 10 - 2022 || 15:30" />
+    <option name="LAST_COMMIT_MESSAGE" value="31 - 10 - 2022 || 15:30" />
+  </component>
+</project>
